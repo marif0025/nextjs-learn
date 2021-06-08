@@ -1,0 +1,29 @@
+.header {
+    padding: 1rem 2rem;
+    background-color: #022144;
+    color: #fff;
+    margin-bottom: 3rem;
+}
+
+.nav {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.logo {
+    margin-right: auto;
+    font-size: 1.8rem;
+    font-weight: 600;
+}
+
+.menu {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+
+    .link {
+        font-size: 1.4rem;
+        line-height: 1;
+    }
+}
